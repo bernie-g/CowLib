@@ -1,6 +1,6 @@
 ﻿using System;
 using Newtonsoft.Json;
-using QuickType;
+using EntitySchema;
 
 namespace CowLib.Factory
 {

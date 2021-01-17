@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="9.3.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Filter\Subjects\" />
+    <Folder Include="SchemaExtensions\" />
+    <Folder Include="Schemas\AnimationController\" />
+    <Folder Include="Schemas\Filter\" />
+  </ItemGroup>
+
+</Project>

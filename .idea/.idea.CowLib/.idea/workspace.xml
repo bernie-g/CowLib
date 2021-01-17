@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad5266cd-f01c-4aac-bd1b-4f38623d2aee" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/CowLib/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/CowLib/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/CowLib/v16/Browse.VC.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CowLib/Builders/BaseFileBuilder.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CowLib/Builders/BehaviorPack.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CowLib/Builders/EntityBuilder.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CowLib/Builders/ManifestBuilder.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CowLib/Fragments/EntityFragments.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CowLib/Identifier.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CowLib/Schemas/EntityFile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CowLib/Schemas/ManifestFile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CowLib/Utils.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CowLib/Validators/CustomValidators.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CowLib/Validators/IdentifierValidator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CowLib/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CowLib/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CowLib.sln" beforeDir="false" afterPath="$PROJECT_DIR$/CowLib.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CowLib.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/CowLib.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CowLib/CowLib.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CowLib/CowLib.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CowLib/Data/EntityFile.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CowLib/Factory/BaseFileFactory.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CowLib/Factory/EntityFactory.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CowLibTest/CowLibTest.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CowLibTest/CowLibTest.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CowLibTest/Tests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CowLibTest/Tests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CowLibTest/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/CowLibTest/packages.config" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/f3/d9269f15/Nullable`1.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CowLib/Class1.cs" />
+        <option value="$PROJECT_DIR$/CowLib/Factory/CowFactory.cs" />
+        <option value="$PROJECT_DIR$/CowLib/Data/Models.cs" />
+        <option value="$PROJECT_DIR$/CowLib/Factory/BaseFileFactory.cs" />
+        <option value="$PROJECT_DIR$/CowLib/Data/EntityModels.cs" />
+        <option value="$PROJECT_DIR$/CowLib/Factory/EntityFactory.cs" />
+        <option value="$PROJECT_DIR$/CowLib/Data/EntityFile.cs" />
+        <option value="$PROJECT_DIR$/CowLib/Builder/BehaviorPack.cs" />
+        <option value="$PROJECT_DIR$/CowLibTest/Tests.cs" />
+        <option value="$PROJECT_DIR$/CowLib/Data/ManifestFile.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mWsrqlIA8R7JBGtVzls3M9ZJHt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="ToolWindowPerformance Profiler.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad5266cd-f01c-4aac-bd1b-4f38623d2aee" name="Default Changelist" comment="" />
+      <created>1609620883730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609620883730</updated>
+      <workItem from="1609620891379" duration="1456000" />
+      <workItem from="1609627833764" duration="7645000" />
+      <workItem from="1609637035693" duration="1413000" />
+      <workItem from="1609783810367" duration="1937000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609628049539">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609628049539" />
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom" timestamp="1609635321546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635321546" />
+    <state width="1877" height="375" key="GridCell.Tab.0.center" timestamp="1609635321546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635321546" />
+    <state width="1877" height="375" key="GridCell.Tab.0.left" timestamp="1609635321546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635321546" />
+    <state width="1877" height="375" key="GridCell.Tab.0.right" timestamp="1609635321546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635321546" />
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom" timestamp="1609635321547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635321547" />
+    <state width="1877" height="375" key="GridCell.Tab.1.center" timestamp="1609635321547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635321547" />
+    <state width="1877" height="375" key="GridCell.Tab.1.left" timestamp="1609635321547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635321547" />
+    <state width="1877" height="375" key="GridCell.Tab.1.right" timestamp="1609635321547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635321547" />
+    <state width="1877" height="375" key="GridCell.Tab.2.bottom" timestamp="1609635321547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635321547" />
+    <state width="1877" height="375" key="GridCell.Tab.2.center" timestamp="1609635321547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635321547" />
+    <state width="1877" height="375" key="GridCell.Tab.2.left" timestamp="1609635321547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635321547" />
+    <state width="1877" height="375" key="GridCell.Tab.2.right" timestamp="1609635321547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.2.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635321547" />
+    <state width="1877" height="375" key="GridCell.Tab.3.bottom" timestamp="1609635321547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635321547" />
+    <state width="1877" height="375" key="GridCell.Tab.3.center" timestamp="1609635321547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635321547" />
+    <state width="1877" height="375" key="GridCell.Tab.3.left" timestamp="1609635321547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635321547" />
+    <state width="1877" height="375" key="GridCell.Tab.3.right" timestamp="1609635321547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.3.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635321547" />
+    <state width="1877" height="375" key="GridCell.Tab.4.bottom" timestamp="1609635321547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.4.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635321547" />
+    <state width="1877" height="375" key="GridCell.Tab.4.center" timestamp="1609635321547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.4.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635321547" />
+    <state width="1877" height="375" key="GridCell.Tab.4.left" timestamp="1609635321547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.4.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635321547" />
+    <state width="1877" height="375" key="GridCell.Tab.4.right" timestamp="1609635321547">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="375" key="GridCell.Tab.4.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635321547" />
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size" timestamp="1609784825749">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609784825749" />
+    <state x="794" y="235" key="RiderGenerateDialog" timestamp="1609630244092">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="235" key="RiderGenerateDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609630244092" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1609785643111">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609785643111" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1609637062668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609637062668" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1609635296438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609635296438" />
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1609637053459">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609637053459" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1609634708673">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1609634708673" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/CowLib/Data/EntityFile.cs</url>
+          <line>11989</line>
+          <properties documentPath="C:\Users\berni\RiderProjects\CowLib\CowLib\Data\Models.cs" initialLine="11803" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="RiderUnitTests">
+        <watch expression="entity.Components.MinecraftItemHopper" language="C#" />
+        <watch expression="attackDamage.ToString()" language="C#" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

@@ -6,13 +6,15 @@
     <e p="C:\Users\berni\RiderProjects\CowLib" t="IncludeFlat">
       <e p="CowLib" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Builder" t="Include">
+          <e p="BaseFileBuilder.cs" t="Include" />
+          <e p="BehaviorPack.cs" t="Include" />
+          <e p="EntityBuilder.cs" t="Include" />
+        </e>
         <e p="CowLib.csproj" t="IncludeRecursive" />
         <e p="data" t="Include">
           <e p="EntityFile.cs" t="Include" />
-        </e>
-        <e p="Factory" t="Include">
-          <e p="BaseFileFactory.cs" t="Include" />
-          <e p="EntityFactory.cs" t="Include" />
+          <e p="ManifestFile.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
